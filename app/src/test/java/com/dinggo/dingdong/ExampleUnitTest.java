@@ -1,4 +1,4 @@
-package com.example.dingdong;
+package com.dinggo.dingdong;
 
 import org.junit.Test;
 
